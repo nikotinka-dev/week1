@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author":"nikotinka"
+      "X-Author":"nikotinka",
+      "Access-Control-Allow-Origin":"*"
     }
   }
 }
